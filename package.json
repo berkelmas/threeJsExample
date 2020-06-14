@@ -1,0 +1,21 @@
+{
+  "name": "threeJsOgren",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "browserslist": [
+    "last 1 Chrome versions"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.117.1"
+  },
+  "devDependencies": {
+    "sass": "^1.26.8"
+  }
+}
